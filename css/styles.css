@@ -60,12 +60,13 @@ img {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var (--title-color);
+  color: var(--title-color);
 }
 .nav-link:hover,
 .nav-link:focus {
   color: var(--accent-color);
 }
+
 .contact-list {
   font-weight: 500;
   font-size: 14px;
